@@ -1,0 +1,40 @@
+
+body {
+    background-color: khaki;
+}
+
+nav {
+    background-color: rgb(131, 227, 174);
+    font-family: 'New Rocker', cursive;
+}
+
+u {
+    color: black;
+}
+
+.text-red {
+    color: red;
+}
+.text-white {
+    color: white;
+}
+
+.w-1200 {
+    width: 1200px;
+}
+
+article {
+    list-style-position: inside;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+img {
+    width: 300px;
+}
+
+.fs-40 {
+    font-size: 40px;
+}
+.fs-20{
+    font-size: 20px;
+}
